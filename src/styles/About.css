@@ -1,0 +1,34 @@
+/* About Me Section */
+.avatar {
+  height: 35%;
+  width: 30%;
+  border-radius: 60px;
+  margin: 2%;
+}
+
+.about-me {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  font-size: 125%;
+  border-top: 2px solid red;
+  border-bottom: 1px solid red;
+  padding-bottom: 1%;
+  height: 85vh;
+  width: 100vw;
+}
+
+.about-me h2 {
+  padding-bottom: 2%;
+  color: red;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.about-me-text {
+  width: 95%;
+  line-height: 2em;
+  font-size: large;
+}

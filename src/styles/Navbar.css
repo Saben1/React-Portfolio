@@ -1,0 +1,40 @@
+nav {
+  height: 100%;
+  display: flex;
+  background-color: black;
+  padding-top: 1%;
+  padding-left: 30%;
+  border-bottom: 1px solid red;
+  border-top: 1px solid red;
+  font-size: 115%;
+}
+nav ul {
+  height: 100%;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+}
+
+nav ul li {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: auto;
+  text-align: center;
+  padding: 0 2rem;
+}
+
+nav ul li a {
+  display: block;
+  height: 100%;
+  width: auto;
+  color: white;
+  text-decoration: none;
+  padding-left: 5px;
+  border-left: 4px solid red;
+}
+
+nav ul li a:hover {
+  color: red;
+}

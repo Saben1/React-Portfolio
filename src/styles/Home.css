@@ -1,0 +1,15 @@
+/* Header section */
+.header {
+  padding: 20%;
+  background: url(/public/image/header_wallpaper.png);
+  color: #ffffff;
+  font-size: 250%;
+  text-align: center;
+  line-height: normal;
+}
+
+/* Style of my name */
+.name,
+.home {
+  color: red;
+}
