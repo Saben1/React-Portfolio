@@ -64,7 +64,7 @@ p {
   font-size: 200%;
   font-weight: bold;
   text-align: start;
-  opacity: 0;
+  opacity: 1;
   transition: opacity 0.4s;
   
 }
@@ -72,14 +72,6 @@ p {
   position: absolute;
   top: 70%;
   left: 10%;
-  opacity: 0;
+  opacity: 1;
   transition: opacity 0.4s;
-}
-
-.card:hover .portfolio-text {
-  opacity: 1;
-}
-
-.card:hover .portfolio-text-body {
-  opacity: 1;
 }
