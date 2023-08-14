@@ -7,27 +7,32 @@ the knowledge we leaned about react to create a react portfolio.
 
 # Technologies used
 
--React
--Html
--Css
--JavaScript
+- React
+- Html
+- Css
+- JavaScript
 
 # Structure of the website portfolio
 
 
-## Home Page
+- Home Page
 
-![home](https://github.com/Saben1/React-Portfolio/issues/1#issue-1849429078)
+[home](https://github.com/Saben1/React-Portfolio/issues/1#issue-1849429078)
 
-## About Me
+- About Me
 
-![About ](https://github.com/Saben1/React-Portfolio/issues/2#issue-1849430041)
+[About ](https://github.com/Saben1/React-Portfolio/issues/2#issue-1849430041)
 
-## Portfolio
+- Portfolio
 
-![Portfolio](https://github.com/Saben1/React-Portfolio/issues/4#issue-1849431008)
+[Portfolio](https://github.com/Saben1/React-Portfolio/issues/4#issue-1849431008)
 
-## Contact Me
+- Contact Me
 
-![contact me](https://github.com/Saben1/React-Portfolio/issues/3#issue-1849430481)
+[contact me](https://github.com/Saben1/React-Portfolio/issues/3#issue-1849430481)
 
+
+# Contact Information
+
+- GitHub Username: Saben1
+- Email: budhathokisabin303@gmail.com
