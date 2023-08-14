@@ -1,7 +1,8 @@
 /* Header section */
 .header {
   padding: 20%;
-  background: url(/public/image/header_wallpaper.png);
+  background: url(/public/image/backgroundimage.jpg);
+  background-size: cover;
   color: #ffffff;
   font-size: 250%;
   text-align: center;
@@ -11,5 +12,5 @@
 /* Style of my name */
 .name,
 .home {
-  color: red;
+  color: rgb(74, 74, 176);
 }

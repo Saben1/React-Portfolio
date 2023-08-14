@@ -10,8 +10,8 @@
 
 .card {
   width: calc(50% - 20px);
-  height: 500px;
-  background-color: #fff;
+  height: 200px;
+  background-color: rgba(226, 219, 11, 0.34);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
   margin-bottom: 30px;
   text-align: center;
@@ -27,9 +27,9 @@
 }
 
 h3 {
-  font-size: 22px;
-  margin: 20px 0;
-  color: red;
+  font-size: 18px;
+  margin: 10px 10px;
+  color:rgb(74, 74, 176);
   position: relative;
   z-index: 1;
   font-weight: bold;
@@ -38,29 +38,29 @@ h3 {
 p {
   font-size: 16px;
   color: white;
-  margin: 20px 0;
+  margin: 10px 0;
   position: relative;
   z-index: 1;
 }
 
 .portfolio-title {
-  font-size: 250%;
+  font-size: 200%;
   text-align: center;
   padding: 1%;
   background-color: black;
-  color: red;
-  border-bottom: 1px solid red;
-  border-top: 1px solid red;
+  color:rgb(74, 74, 176);
+  border-bottom: 1px solidrgb(74, 74, 176);
+  border-top: 1px solidrgb(74, 74, 176);
   font-weight: bold;
   font-size: 3em;
 }
 
 .portfolio-text {
   position: absolute;
-  top: 5%;
+  top: 25%;
   left: 40%;
   transform: translate(-50%, -50%);
-  color: red;
+  color:rgb(74, 74, 176);
   font-size: 200%;
   font-weight: bold;
   text-align: start;
@@ -70,7 +70,7 @@ p {
 }
 .portfolio-text-body {
   position: absolute;
-  top: 20%;
+  top: 70%;
   left: 10%;
   opacity: 0;
   transition: opacity 0.4s;
