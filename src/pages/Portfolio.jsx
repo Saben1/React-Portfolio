@@ -54,6 +54,16 @@ function Portfolio() {
             Using my knowledge of server-side APIs to create a weather dashboard
           </p>
         </a>
+        <a
+          className="card"
+          href="https://saben1.github.io/Weather-Dashboard/"
+          target="_blank"
+          rel="noopener noreferrer">
+          <h3 className="portfolio-text">PRoject-6 Resume Generator</h3>
+          <p className="portfolio-text-body">
+            Using my knowledge of Graphql, React, Nodejs to create a weather dashboard
+          </p>
+        </a>
       </div>
     </section>
   );
